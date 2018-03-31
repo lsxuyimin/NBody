@@ -1,0 +1,8 @@
+﻿  main.cpp
+c1xx : warning C4199: C++/CLI、C++/CX 或 OpenMP 不支持两阶段名称查找；请使用 /Zc:twoPhase-
+  正在生成代码
+  4 of 94 functions ( 4.3%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    2 functions had inline decision re-evaluated but remain unchanged
+  已完成代码的生成
+  NBody.vcxproj -> C:\Users\xuyimin\source\repos\NBody\x64\Release\NBody.exe

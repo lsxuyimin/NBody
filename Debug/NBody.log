@@ -1,0 +1,6 @@
+﻿  main.cpp
+c1xx : warning C4199: C++/CLI、C++/CX 或 OpenMP 不支持两阶段名称查找；请使用 /Zc:twoPhase-
+c:\users\xuyimin\source\repos\nbody\nbody\main.cpp(27): warning C4018: “<”: 有符号/无符号不匹配
+c:\users\xuyimin\source\repos\nbody\nbody\main.cpp(34): warning C4018: “<”: 有符号/无符号不匹配
+c:\users\xuyimin\source\repos\nbody\nbody\main.cpp(41): warning C4018: “<”: 有符号/无符号不匹配
+  NBody.vcxproj -> C:\Users\xuyimin\source\repos\NBody\Debug\NBody.exe
